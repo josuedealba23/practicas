@@ -1,0 +1,25 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package variables;
+
+/**
+ *
+ * @author Usuario
+ */
+public class ListasDeTareas {
+      public static void main (String[] args){
+            //todo code ap'lication legic here
+            int edad;
+            String tarea1 = "ir al super";
+            String tarea2 = "lavar casa";
+            String tarea3 = "lavar coche";
+            String tarea4 = "salir a correr";
+            String tarea5 = "hacer ejercicio";
+                    
+            System.out.println("tarea num 1 : " + tarea1 + "tarea 2" + tarea2 + " tarea 3" + tarea3 + " tarea favorita : " + tarea5 );
+                    }
+    
+}
